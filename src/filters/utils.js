@@ -1,5 +1,5 @@
 import Handsontable from 'handsontable';
-import { createArrayAssertion, toVisualValue } from 'handsontable/plugins/filters/utils'; // UGLY
+import { createArrayAssertion, toVisualValue } from 'handsontable/es/plugins/filters/utils'; // UGLY
 
 /**
  * createArrayAssertion version handling key-value case.

@@ -1,7 +1,7 @@
 import Handsontable from 'handsontable';
-import * as C from 'handsontable/i18n/constants'; // UGLY
-import ValueComponent from 'handsontable/plugins/filters/component/value'; // UGLY
-import { unifyColumnValues, toEmptyString } from 'handsontable/plugins/filters/utils'; // UGLY
+import * as C from 'handsontable/es/i18n/constants'; // UGLY
+import ValueComponent from 'handsontable/es/plugins/filters/component/value'; // UGLY
+import { unifyColumnValues, toEmptyString } from 'handsontable/es/plugins/filters/utils'; // UGLY
 
 import { getSourceItems } from '../common';
 import KeyValueMultipleSelect from './keyValueMultipleSelectUI';
