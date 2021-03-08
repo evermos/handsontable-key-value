@@ -1,5 +1,5 @@
 import Handsontable from 'handsontable';
-import MultipleSelectUI from 'handsontable/es/plugins/filters/ui/multipleSelect'; // UGLY
+import MultipleSelectUI from 'handsontable/plugins/filters/ui/multipleSelect'; // UGLY
 import deburr from 'lodash.deburr';
 
 class KeyValueMultipleSelect extends MultipleSelectUI {
