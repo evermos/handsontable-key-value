@@ -11,8 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "handsontable": "^7.1.0",
-    "handsontable-key-value": "^3.0.1"
+    "handsontable": "^8.3.1",
+    "handsontable-key-value": "^3.0.2"
   },
   "devDependencies": {
     "css-loader": "^3.0.0",
